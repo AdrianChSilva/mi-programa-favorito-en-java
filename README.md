@@ -94,6 +94,6 @@ En el código podemos observar líneas comentadas que no hacen más que mostrar 
 
 *Bueno dejémonos de chorradas*
 
-El ejercicio es sencillo, hay que realizar una máquina tragaperras con ```Math.random()``` y que el programa sepa cuando se da una combinación ganadora, o no, y que lo imprima por pantalla. Con una pequeña particularidad que **quise** añadir, un sistema de monedas, es decir, una virtualización de lo que sería jugar a una máquina tragaperras en la realidad, así que cuando te quedas sin monedas, ya no puedes jugar.
+El ejercicio es sencillo, hay que realizar una máquina tragaperras con ```Math.random()``` y que el programa sepa cuando se da una combinación ganadora, o no, y que lo imprima por pantalla. Tiene una pequeña particularidad que **quise** añadir, un sistema de monedas, es decir, una virtualización de lo que sería jugar a una máquina tragaperras en la realidad, así que cuando te quedas sin monedas, ya no puedes jugar.
 
-<img src="imagenes/hulio1.png">
+<img src="Imagenes/hulio1.png">
